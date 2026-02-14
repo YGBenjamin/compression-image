@@ -129,7 +129,7 @@ def decompress(ar, neg=0):
 
 
 
-imgLink = "../images/earth.png"
+imgLink = "./data/vagues.png"
 img = Image.open(imgLink)
 ar = np.array(img)
 new_ar, taux_de_compression = compress(imgLink, n=6)
