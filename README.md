@@ -50,3 +50,18 @@ This metric is more robust than simple absolute error because it measures the pe
    ```bash
    git clone [https://github.com/YourUsername/JPEG-Compression-DCT.git](https://github.com/YourUsername/JPEG-Compression-DCT.git)
    ```
+2. **Install requirements:**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the app:**
+
+   ```bash
+   python -m streamlit run main.py
+   ```
+
+👨‍💻 Author
+**Benjamin - MAM3 Student (2025-2026)
+Specialization: Computer Vision & Applied Mathematics.**
