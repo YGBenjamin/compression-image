@@ -48,7 +48,7 @@ This metric is more robust than simple absolute error because it measures the pe
 ## 🛠️ Installation & Usage
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/JPEG-Compression-DCT.git](https://github.com/YourUsername/JPEG-Compression-DCT.git)
+   git clone https://github.com/YGBenjamin/compression-image/blob/main/README.md
    ```
 2. **Install requirements:**
 
@@ -65,3 +65,4 @@ This metric is more robust than simple absolute error because it measures the pe
 👨‍💻 Author
 **Benjamin - MAM3 Student (2025-2026)
 Specialization: Computer Vision & Applied Mathematics.**
+
